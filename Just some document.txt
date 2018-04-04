@@ -1,1 +1,1 @@
-This is just a simple text file used to help demonstrate Git.
+This is just a simple file used to demonstrate Git.
